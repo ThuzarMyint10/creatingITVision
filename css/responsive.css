@@ -1,0 +1,9 @@
+@media screen and (min-width: 480px){
+    /*---------------------
+    Portfolio Page
+    */
+
+    #gallery li{
+        width: 28%;
+    }
+}
